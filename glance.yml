@@ -61,7 +61,7 @@ pages:
                 url: https://proxmoxIP:8006
                 icon: di:proxmox
               - title: PA
-                url: https://private.best.eu.org/
+                url: https://somthing_private/
                 icon: https://pb.dashboardicons.com/api/files/community_gallery/mjxi8ywe36ys5b8/instacart_logo_icon_169661_ji0sjaihp0.svg
               - title: YouTube
                 url: https://www.youtube.com/
