@@ -55,10 +55,10 @@ pages:
             cache: 1m
             sites:
               - title: Nextcloud
-                url: https://cloud.vahui.dev/
+                url: https://IP/
                 icon: di:nextcloud
               - title: Proxmox
-                url: https://83.218.212.17:8006
+                url: https://proxmoxIP:8006
                 icon: di:proxmox
               - title: PA
                 url: https://private.best.eu.org/
